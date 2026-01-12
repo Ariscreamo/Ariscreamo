@@ -12,13 +12,16 @@ I specialize in **developing, customizing, and integrating Odoo modules** for bu
 - **Database**: PostgreSQL  
 - **Technologies**: NFC Integration, ERP Automation
 
+---
+
 ## 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/odoo/714B67" alt="Odoo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="REST API" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="REST API" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/odoo/owl/master/doc/_static/owl.svg" alt="OWL" width="40" height="40"/>
 </p>
+
