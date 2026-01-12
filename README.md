@@ -37,12 +37,12 @@ I can help with:
 ---
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/odoo/714B67" alt="Odoo" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/odoo/714B67" alt="Odoo" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="REST API" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/de008a20e03d6bf5144b01b95bde8fb3cf315abe1df4ce638fd3e2743481bc0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f6c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="Docker" width="160" height="160"/>
+  <img src="https://camo.githubusercontent.com/de008a20e03d6bf5144b01b95bde8fb3cf315abe1df4ce638fd3e2743481bc0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f6c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" alt="Docker" width="130" height="130"/>
 </p>
 
