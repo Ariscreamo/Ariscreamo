@@ -1,4 +1,4 @@
-<img src="https://logo.svgcdn.com/simple-icons/odoo-dark.png" alt="Odoo Logo" width="50"/>
+<img src="https://cdn.pixabay.com/photo/2019/11/07/17/47/code-4601802_1280.jpg" alt="Futuristic Tech Banner" width="100%">
 
 # Hi, I'm Ratolojanahary Henintsoa Ariel 🇲🇬 👋
 Odoo Developer | ERP Integration & Training
