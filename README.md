@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2019/11/07/17/47/code-4601802_1280.jpg" alt="Futuristic Tech Banner" width="100%">
+![Futuristic Tech Banner](banner.png)
 
 # Hi, I'm Ratolojanahary Henintsoa Ariel 🇲🇬 👋
 Odoo Developer | ERP Integration & Training
