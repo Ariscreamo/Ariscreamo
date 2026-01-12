@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ratolojanahary Henintsoa Ariel 🇲🇬 👋
+Odoo Developer | ERP Integration & Training
 
-<!--
-**Ariscreamo/Ariscreamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **developing, customizing, and integrating Odoo modules** for businesses of all sizes. I also provide training to help teams get the most out of their ERP systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Odoo Development**: Modules, Workflows, Customization  
+- **Programming Languages**: Python, JavaScript, XML  
+- **Frameworks & Tools**: OWL (Odoo Web Library), REST API  
+- **Database**: PostgreSQL  
+- **Technologies**: NFC Integration, ERP Automation  
