@@ -1,4 +1,4 @@
-![Futuristic Tech Banner](banner.png)
+![Futuristic Tech Banner](banner.jpg)
 
 # Hi, I'm Ratolojanahary Henintsoa Ariel 🇲🇬 👋
 Odoo Developer | ERP Integration & Training
