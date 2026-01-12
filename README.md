@@ -16,12 +16,23 @@ I specialize in **developing, customizing, and integrating Odoo modules** for bu
 
 ---
 
+## 💼 Projects
+- [NFC Business Card](https://www.imoptimize.com) – NFC-based business card linked with odoo res.partner
+
+---
+
 ## 🚀 Services
 I can help with:  
 - **Odoo Integration**: Connect Odoo with your existing systems and APIs  
 - **Module Customization & Development**  
 - **ERP Automation**: Streamline business workflows  
 - **Training & Support**: Teach your team how to use Odoo effectively  
+
+---
+
+## 📫 Contact
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/henintsoa-ariel-ratolojanahary-8502b617a))  
+- **Email**: henintsoaariel@gmail.com
 
 ---
 
