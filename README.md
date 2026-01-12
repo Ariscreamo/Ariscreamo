@@ -16,6 +16,15 @@ I specialize in **developing, customizing, and integrating Odoo modules** for bu
 
 ---
 
+## 🚀 Services
+I can help with:  
+- **Odoo Integration**: Connect Odoo with your existing systems and APIs  
+- **Module Customization & Development**  
+- **ERP Automation**: Streamline business workflows  
+- **Training & Support**: Teach your team how to use Odoo effectively  
+
+---
+
 ## 🔧 Technologies & Tools
 
 <p align="left">
