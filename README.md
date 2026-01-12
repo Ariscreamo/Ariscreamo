@@ -22,6 +22,5 @@ I specialize in **developing, customizing, and integrating Odoo modules** for bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="REST API" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/odoo/owl/master/doc/_static/owl.svg" alt="OWL" width="40" height="40"/>
 </p>
 
