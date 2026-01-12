@@ -1,3 +1,5 @@
+<img src="https://logo.svgcdn.com/simple-icons/odoo-dark.png" alt="Odoo Logo" width="50"/>
+
 # Hi, I'm Ratolojanahary Henintsoa Ariel 🇲🇬 👋
 Odoo Developer | ERP Integration & Training
 
