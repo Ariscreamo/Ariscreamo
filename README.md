@@ -31,7 +31,7 @@ I can help with:
 ---
 
 ## 📫 Contact
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/henintsoa-ariel-ratolojanahary-8502b617a))  
+- **LinkedIn**: https://www.linkedin.com/in/henintsoa-ariel-ratolojanahary-8502b617a
 - **Email**: henintsoaariel@gmail.com
 
 ---
